@@ -1,0 +1,8 @@
+
+mlruns/
+
+catboost_info/
+
+.virtual_documents/
+
+.ipynb_checkpoints/
